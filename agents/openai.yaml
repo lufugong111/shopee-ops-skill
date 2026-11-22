@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopee Listing Agent"
+  short_description: "Prepare Shopee listings with confirmed rules"
+  default_prompt: "Use $shopee-listing-agent to prepare a Shopee listing; explain the applicable rules and ask me to confirm them before any changes."
