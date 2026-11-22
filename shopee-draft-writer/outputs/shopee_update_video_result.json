@@ -1,0 +1,616 @@
+﻿{
+    "get_item_base_info_before":  {
+                                      "error":  "",
+                                      "message":  "",
+                                      "warning":  "",
+                                      "request_id":  null,
+                                      "response":  {
+                                                       "item_list":  [
+                                                                         {
+                                                                             "item_id":  null,
+                                                                             "category_id":  null,
+                                                                             "item_name":  "",
+                                                                             "item_sku":  "",
+                                                                             "create_time":  1788322045,
+                                                                             "update_time":  1788322047,
+                                                                             "attribute_list":  null,
+                                                                             "image":  {
+                                                                                           "image_id_list":  [
+                                                                                                                 "sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                                                 "sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                                                 "sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                                                 "sg-11134201-8259u-msm7uixp24g809",
+                                                                                                                 "sg-11134201-825b1-msm7v23wqubk73",
+                                                                                                                 "sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                                                 "sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                                                 "sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                                                 "sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                                             ],
+                                                                                           "image_url_list":  [
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-8259u-msm7uixp24g809",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-825b1-msm7v23wqubk73",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                                                  "https://cf.shopee.co.th/file/sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                                              ],
+                                                                                           "image_ratio":  "1:1"
+                                                                                       },
+                                                                             "weight":  null,
+                                                                             "dimension":  {
+                                                                                               "package_length":  null,
+                                                                                               "package_width":  null,
+                                                                                               "package_height":  null
+                                                                                           },
+                                                                             "logistic_info":  [
+
+                                                                                               ],
+                                                                             "pre_order":  {
+                                                                                               "is_pre_order":  false,
+                                                                                               "days_to_ship":  2
+                                                                                           },
+                                                                             "condition":  "",
+                                                                             "size_chart":  "https://cf.shopee.co.th/file/sg-11134201-825b5-ms5cr8tsvoy04a",
+                                                                             "item_status":  "UNLIST",
+                                                                             "has_model":  true,
+                                                                             "has_promotion":  false,
+                                                                             "brand":  null,
+                                                                             "item_dangerous":  0,
+                                                                             "description_info":  {
+                                                                                                      "extended_description":  {
+                                                                                                                                   "field_list":  [
+                                                                                                                                                      {
+                                                                                                                                                          "field_type":  "text",
+                                                                                                                                                          "text":  ""
+                                                                                                                                                      },
+                                                                                                                                                      {
+                                                                                                                                                          "field_type":  "image",
+                                                                                                                                                          "image_info":  {
+                                                                                                                                                                             "image_id":  null,
+                                                                                                                                                                             "image_url":  "https://cf.shopee.co.th/file/sg-11134201-8259l-msm7v3ti4g0097"
+                                                                                                                                                                         }
+                                                                                                                                                      }
+                                                                                                                                                  ]
+                                                                                                                               }
+                                                                                                  },
+                                                                             "description_type":  "extended",
+                                                                             "size_chart_id":  null,
+                                                                             "promotion_image":  {
+                                                                                                     "image_id_list":  [
+                                                                                                                           "sg-11134201-825aq-msm7udsd7tvob6"
+                                                                                                                       ],
+                                                                                                     "image_url_list":  [
+                                                                                                                            "https://cf.shopee.co.th/file/sg-11134201-825aq-msm7udsd7tvob6"
+                                                                                                                        ]
+                                                                                                 },
+                                                                             "deboost":  "FALSE",
+                                                                             "compatibility_info":  {
+
+                                                                                                    },
+                                                                             "authorised_brand_id":  null,
+                                                                             "is_fulfillment_by_shopee":  false,
+                                                                             "tag":  {
+                                                                                         "kit":  false
+                                                                                     },
+                                                                             "purchase_limit_info":  {
+                                                                                                         "min_purchase_limit":  1
+                                                                                                     }
+                                                                         }
+                                                                     ]
+                                                   },
+                                      "debug_message":  ""
+                                  },
+    "video_validation":  {
+                             "path":  "C:\\Users\\linji\\AppData\\Local\\hermes\\cache\\documents\\doc_9ee00ed00bd0_视频.mp4",
+                             "size":  11509509,
+                             "max_size":  30000000,
+                             "part_size":  4194304,
+                             "part_count":  3
+                         },
+    "video_upload":  {
+                         "video_upload_id":  null,
+                         "file_md5":  "0887f04fc2f43189780f40c2645b755a",
+                         "file_size":  11509509,
+                         "init_request":  {
+                                              "file_md5":  "0887f04fc2f43189780f40c2645b755a",
+                                              "file_size":  11509509
+                                          },
+                         "init_response":  {
+                                               "error":  "",
+                                               "message":  "",
+                                               "warning":  "",
+                                               "request_id":  null,
+                                               "response":  {
+                                                                "video_upload_id":  null
+                                                            }
+                                           },
+                         "part_results":  [
+                                              {
+                                                  "part_seq":  0,
+                                                  "part_size":  4194304,
+                                                  "content_md5":  "1b863d8de1e96d2802680133580ba477",
+                                                  "response":  {
+                                                                   "error":  "",
+                                                                   "message":  "",
+                                                                   "warning":  "",
+                                                                   "request_id":  null
+                                                               }
+                                              },
+                                              {
+                                                  "part_seq":  1,
+                                                  "part_size":  4194304,
+                                                  "content_md5":  "9e0664e27d4b578af696b70dcb9a4fa2",
+                                                  "response":  {
+                                                                   "error":  "",
+                                                                   "message":  "",
+                                                                   "warning":  "",
+                                                                   "request_id":  null
+                                                               }
+                                              },
+                                              {
+                                                  "part_seq":  2,
+                                                  "part_size":  3120901,
+                                                  "content_md5":  "bcb2b6a5309285a6fcffe8837cd8a24f",
+                                                  "response":  {
+                                                                   "error":  "",
+                                                                   "message":  "",
+                                                                   "warning":  "",
+                                                                   "request_id":  null
+                                                               }
+                                              }
+                                          ],
+                         "complete_request":  {
+                                                  "video_upload_id":  null,
+                                                  "part_seq_list":  [
+                                                                        0,
+                                                                        1,
+                                                                        2
+                                                                    ],
+                                                  "upload_cost":  22
+                                              },
+                         "complete_response":  {
+                                                   "error":  "",
+                                                   "message":  "",
+                                                   "warning":  "",
+                                                   "request_id":  null
+                                               },
+                         "poll_results":  [
+                                              {
+                                                  "attempt":  1,
+                                                  "status":  "TRANSCODING",
+                                                  "response":  {
+                                                                   "status":  "TRANSCODING",
+                                                                   "message":  "Success",
+                                                                   "video_info":  null
+                                                               }
+                                              },
+                                              {
+                                                  "attempt":  2,
+                                                  "status":  "TRANSCODING",
+                                                  "response":  {
+                                                                   "status":  "TRANSCODING",
+                                                                   "message":  "Success",
+                                                                   "video_info":  null
+                                                               }
+                                              },
+                                              {
+                                                  "attempt":  3,
+                                                  "status":  "SUCCEEDED",
+                                                  "response":  {
+                                                                   "status":  "SUCCEEDED",
+                                                                   "message":  "Success",
+                                                                   "video_info":  {
+                                                                                      "video_url_list":  [
+                                                                                                             {
+                                                                                                                 "video_url_region":  "PH",
+                                                                                                                 "video_url":  "https://cvf.shopee.ph/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "TW",
+                                                                                                                 "video_url":  "https://cvf.shopee.tw/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "MX",
+                                                                                                                 "video_url":  "https://cvf.shopee.com.mx/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "CL",
+                                                                                                                 "video_url":  "https://cvf.shopee.cl/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "PL",
+                                                                                                                 "video_url":  "https://cvf.shopee.pl/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "BR",
+                                                                                                                 "video_url":  "https://cvf.shopee.com.br/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "ID",
+                                                                                                                 "video_url":  "https://cvf.shopee.co.id/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "MY",
+                                                                                                                 "video_url":  "https://cvf.shopee.com.my/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "SG",
+                                                                                                                 "video_url":  "https://cvf.shopee.sg/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "TH",
+                                                                                                                 "video_url":  "https://cvf.shopee.co.th/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "VN",
+                                                                                                                 "video_url":  "https://cvf.shopee.vn/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "AR",
+                                                                                                                 "video_url":  "https://cvf.shopee.com.ar/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "video_url_region":  "CO",
+                                                                                                                 "video_url":  "https://cvf.shopee.com.co/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                             }
+                                                                                                         ],
+                                                                                      "thumbnail_url_list":  [
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "PH",
+                                                                                                                     "image_url":  "https://cf.shopee.ph/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "TH",
+                                                                                                                     "image_url":  "https://cf.shopee.co.th/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "VN",
+                                                                                                                     "image_url":  "https://cf.shopee.vn/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "CL",
+                                                                                                                     "image_url":  "https://cf.shopee.cl/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "PL",
+                                                                                                                     "image_url":  "https://cf.shopee.pl/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "BR",
+                                                                                                                     "image_url":  "https://cf.shopee.com.br/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "ID",
+                                                                                                                     "image_url":  "https://cf.shopee.co.id/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "TW",
+                                                                                                                     "image_url":  "https://cf.shopee.tw/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "AR",
+                                                                                                                     "image_url":  "https://cf.shopee.com.ar/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "MX",
+                                                                                                                     "image_url":  "https://cf.shopee.com.mx/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "CO",
+                                                                                                                     "image_url":  "https://cf.shopee.com.co/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "MY",
+                                                                                                                     "image_url":  "https://cf.shopee.com.my/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 },
+                                                                                                                 {
+                                                                                                                     "image_url_region":  "SG",
+                                                                                                                     "image_url":  "https://cf.shopee.sg/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                                 }
+                                                                                                             ],
+                                                                                      "duration":  15
+                                                                                  }
+                                                               }
+                                              }
+                                          ],
+                         "final_response":  {
+                                                "error":  "",
+                                                "message":  "",
+                                                "warning":  "",
+                                                "request_id":  null,
+                                                "response":  {
+                                                                 "status":  "SUCCEEDED",
+                                                                 "message":  "Success",
+                                                                 "video_info":  {
+                                                                                    "video_url_list":  [
+                                                                                                           {
+                                                                                                               "video_url_region":  "PH",
+                                                                                                               "video_url":  "https://cvf.shopee.ph/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "TW",
+                                                                                                               "video_url":  "https://cvf.shopee.tw/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "MX",
+                                                                                                               "video_url":  "https://cvf.shopee.com.mx/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "CL",
+                                                                                                               "video_url":  "https://cvf.shopee.cl/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "PL",
+                                                                                                               "video_url":  "https://cvf.shopee.pl/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "BR",
+                                                                                                               "video_url":  "https://cvf.shopee.com.br/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "ID",
+                                                                                                               "video_url":  "https://cvf.shopee.co.id/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "MY",
+                                                                                                               "video_url":  "https://cvf.shopee.com.my/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "SG",
+                                                                                                               "video_url":  "https://cvf.shopee.sg/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "TH",
+                                                                                                               "video_url":  "https://cvf.shopee.co.th/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "VN",
+                                                                                                               "video_url":  "https://cvf.shopee.vn/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "AR",
+                                                                                                               "video_url":  "https://cvf.shopee.com.ar/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "video_url_region":  "CO",
+                                                                                                               "video_url":  "https://cvf.shopee.com.co/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4"
+                                                                                                           }
+                                                                                                       ],
+                                                                                    "thumbnail_url_list":  [
+                                                                                                               {
+                                                                                                                   "image_url_region":  "PH",
+                                                                                                                   "image_url":  "https://cf.shopee.ph/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "TH",
+                                                                                                                   "image_url":  "https://cf.shopee.co.th/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "VN",
+                                                                                                                   "image_url":  "https://cf.shopee.vn/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "CL",
+                                                                                                                   "image_url":  "https://cf.shopee.cl/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "PL",
+                                                                                                                   "image_url":  "https://cf.shopee.pl/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "BR",
+                                                                                                                   "image_url":  "https://cf.shopee.com.br/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "ID",
+                                                                                                                   "image_url":  "https://cf.shopee.co.id/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "TW",
+                                                                                                                   "image_url":  "https://cf.shopee.tw/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "AR",
+                                                                                                                   "image_url":  "https://cf.shopee.com.ar/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "MX",
+                                                                                                                   "image_url":  "https://cf.shopee.com.mx/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "CO",
+                                                                                                                   "image_url":  "https://cf.shopee.com.co/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "MY",
+                                                                                                                   "image_url":  "https://cf.shopee.com.my/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               },
+                                                                                                               {
+                                                                                                                   "image_url_region":  "SG",
+                                                                                                                   "image_url":  "https://cf.shopee.sg/file/sg-11110106-6vce9-msmehbg8az2h96_cover"
+                                                                                                               }
+                                                                                                           ],
+                                                                                    "duration":  15
+                                                                                }
+                                                             }
+                                            }
+                     },
+    "update_item_request":  {
+                                "item_id":  null,
+                                "video_upload_id":  null
+                            },
+    "update_item_response":  {
+                                 "error":  "",
+                                 "message":  "",
+                                 "warning":  "The size chart is a mandatory field for some category. Please update the third-party interface to include the size chart field before [2024-12-20] to avoid failures in uploading or updating products",
+                                 "request_id":  null,
+                                 "response":  {
+                                                  "item_id":  null,
+                                                  "category_id":  null,
+                                                  "item_name":  "",
+                                                  "description":  "",
+                                                  "attribute":  null,
+                                                  "images":  {
+                                                                 "image_id_list":  [
+                                                                                       "sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                       "sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                       "sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                       "sg-11134201-8259u-msm7uixp24g809",
+                                                                                       "sg-11134201-825b1-msm7v23wqubk73",
+                                                                                       "sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                       "sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                       "sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                       "sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                   ],
+                                                                 "image_url_list":  [
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-8259u-msm7uixp24g809",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-825b1-msm7v23wqubk73",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                        "https://cf.shopee.co.th/file/sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                    ],
+                                                                 "image_ratio":  "1:1"
+                                                             },
+                                                  "weight":  null,
+                                                  "dimension":  {
+                                                                    "package_length":  null,
+                                                                    "package_width":  null,
+                                                                    "package_height":  null
+                                                                },
+                                                  "pre_order":  {
+                                                                    "is_pre_order":  false,
+                                                                    "days_to_ship":  2
+                                                                },
+                                                  "condition":  "",
+                                                  "item_status":  "UNLIST",
+                                                  "brand":  null,
+                                                  "description_type":  "normal",
+                                                  "size_chart_info":  {
+                                                                          "size_chart":  "sg-11134201-825b5-ms5cr8tsvoy04a",
+                                                                          "size_chart_id":  null
+                                                                      },
+                                                  "purchase_limit_info":  {
+
+                                                                          }
+                                              },
+                                 "debug_message":  ""
+                             },
+    "get_item_base_info_after":  {
+                                     "error":  "",
+                                     "message":  "",
+                                     "warning":  "",
+                                     "request_id":  null,
+                                     "response":  {
+                                                      "item_list":  [
+                                                                        {
+                                                                            "item_id":  null,
+                                                                            "category_id":  null,
+                                                                            "item_name":  "",
+                                                                            "item_sku":  "",
+                                                                            "create_time":  1788322045,
+                                                                            "update_time":  1788333148,
+                                                                            "attribute_list":  null,
+                                                                            "image":  {
+                                                                                          "image_id_list":  [
+                                                                                                                "sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                                                "sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                                                "sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                                                "sg-11134201-8259u-msm7uixp24g809",
+                                                                                                                "sg-11134201-825b1-msm7v23wqubk73",
+                                                                                                                "sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                                                "sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                                                "sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                                                "sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                                            ],
+                                                                                          "image_url_list":  [
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-825aq-msm7udsd7tvob6",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-8258g-msm7ufbg3g211b",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-8259n-msm7uh66uozoc4",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-8259u-msm7uixp24g809",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-825b1-msm7v23wqubk73",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-8259l-msm7v3ti4g0097",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-82586-ms5dgs2gxmh410",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-825ah-msm7v75nv3t1a3",
+                                                                                                                 "https://cf.shopee.co.th/file/sg-11134201-825b5-ms5cr8tsvoy04a"
+                                                                                                             ],
+                                                                                          "image_ratio":  "1:1"
+                                                                                      },
+                                                                            "weight":  null,
+                                                                            "dimension":  {
+                                                                                              "package_length":  null,
+                                                                                              "package_width":  null,
+                                                                                              "package_height":  null
+                                                                                          },
+                                                                            "logistic_info":  [
+
+                                                                                              ],
+                                                                            "pre_order":  {
+                                                                                              "is_pre_order":  false,
+                                                                                              "days_to_ship":  2
+                                                                                          },
+                                                                            "condition":  "",
+                                                                            "size_chart":  "https://cf.shopee.co.th/file/sg-11134201-825b5-ms5cr8tsvoy04a",
+                                                                            "item_status":  "UNLIST",
+                                                                            "has_model":  true,
+                                                                            "has_promotion":  false,
+                                                                            "video_info":  [
+                                                                                               {
+                                                                                                   "video_url":  "https://cvf.shopee.co.th/file/api/v4/11110106/mms/sg-11110106-6vce9-msmehbg8az2h96.16000081788333139.mp4",
+                                                                                                   "thumbnail_url":  "https://cf.shopee.co.th/file/sg-11110106-6vce9-msmehbg8az2h96_cover",
+                                                                                                   "duration":  15
+                                                                                               }
+                                                                                           ],
+                                                                            "brand":  null,
+                                                                            "item_dangerous":  0,
+                                                                            "description_info":  {
+                                                                                                     "extended_description":  {
+                                                                                                                                  "field_list":  [
+                                                                                                                                                     {
+                                                                                                                                                         "field_type":  "text",
+                                                                                                                                                         "text":  ""
+                                                                                                                                                     },
+                                                                                                                                                     {
+                                                                                                                                                         "field_type":  "image",
+                                                                                                                                                         "image_info":  {
+                                                                                                                                                                            "image_id":  null,
+                                                                                                                                                                            "image_url":  "https://cf.shopee.co.th/file/sg-11134201-8259l-msm7v3ti4g0097"
+                                                                                                                                                                        }
+                                                                                                                                                     }
+                                                                                                                                                 ]
+                                                                                                                              }
+                                                                                                 },
+                                                                            "description_type":  "extended",
+                                                                            "size_chart_id":  null,
+                                                                            "promotion_image":  {
+                                                                                                    "image_id_list":  [
+                                                                                                                          "sg-11134201-825aq-msm7udsd7tvob6"
+                                                                                                                      ],
+                                                                                                    "image_url_list":  [
+                                                                                                                           "https://cf.shopee.co.th/file/sg-11134201-825aq-msm7udsd7tvob6"
+                                                                                                                       ]
+                                                                                                },
+                                                                            "deboost":  "FALSE",
+                                                                            "compatibility_info":  {
+
+                                                                                                   },
+                                                                            "authorised_brand_id":  null,
+                                                                            "is_fulfillment_by_shopee":  false,
+                                                                            "tag":  {
+                                                                                        "kit":  false
+                                                                                    },
+                                                                            "purchase_limit_info":  {
+                                                                                                        "min_purchase_limit":  1
+                                                                                                    }
+                                                                        }
+                                                                    ]
+                                                  },
+                                     "debug_message":  ""
+                                 }
+}

@@ -1,0 +1,575 @@
+﻿{
+    "item_id":  null,
+    "tier_variation":  [
+                           {
+                               "name":  "Color",
+                               "option_list":  [
+                                                   {
+                                                       "option":  "Apricot",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Black",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Gray",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Light Gray",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Pink",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Pure White",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Red",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "White",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   },
+                                                   {
+                                                       "option":  "Wine Red",
+                                                       "image":  {
+                                                                     "image_id":  null
+                                                                 }
+                                                   }
+                                               ]
+                           },
+                           {
+                               "name":  "Size",
+                               "option_list":  [
+                                                   {
+                                                       "option":  "S"
+                                                   },
+                                                   {
+                                                       "option":  "M"
+                                                   },
+                                                   {
+                                                       "option":  "L"
+                                                   },
+                                                   {
+                                                       "option":  "XL"
+                                                   },
+                                                   {
+                                                       "option":  "XXL"
+                                                   },
+                                                   {
+                                                       "option":  "XXXL"
+                                                   }
+                                               ]
+                           }
+                       ],
+    "model":  [
+                  {
+                      "tier_index":  [
+                                         0,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         0,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         0,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         0,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         0,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         0,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         1,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         2,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         3,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         4,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         5,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         6,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         7,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         0
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         1
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         2
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         3
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         4
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  },
+                  {
+                      "tier_index":  [
+                                         8,
+                                         5
+                                     ],
+                      "model_sku":  "",
+                      "original_price":  null,
+                      "seller_stock":  null
+                  }
+              ]
+}

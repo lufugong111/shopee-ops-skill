@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopee Draft Writer"
+  short_description: "Upload Shopee products from user-provided assets"
+  default_prompt: "Use $shopee-draft-writer to upload a Shopee product from my provided details and images; first confirm the shop binding and listing rules with me."
